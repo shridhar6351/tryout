@@ -6,5 +6,5 @@ install:
   - pip install -r $REQ_FILE
 # command to run tests
 script:
-  - mult.py
+  - mult
  
