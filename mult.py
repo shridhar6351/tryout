@@ -20,3 +20,4 @@
                result[i][j] += X[i][k] * Y[k][j]
     for r in result:
        print(r)
+    
