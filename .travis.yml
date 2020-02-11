@@ -1,7 +1,7 @@
 language: python
 
 env:
-  - REQ_FILE="./shridhar6351/tryout/requirements.txt"
+  - REQ_FILE="./tryout/requirements.txt"
 install:
   - pip install -r $REQ_FILE
 # command to run tests
